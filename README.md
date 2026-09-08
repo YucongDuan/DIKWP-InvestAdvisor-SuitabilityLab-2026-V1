@@ -1,5 +1,7 @@
 # DIKWP InvestAdvisor SuitabilityLab 2026 V1
 
+Created by Yucong Duan (段玉聪).
+
 Offline, open-source reference prototype for investment education, suitability pre-review, portfolio discussion drafts, product due diligence, stress testing and advisor review.
 
 ## Quick start
